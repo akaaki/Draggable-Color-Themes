@@ -6,6 +6,8 @@ div{
   width:100px;
   height:100px;
   display: inline-block;
+  text-align:center;
+  padding-top:1.5em;
 }
 
 .box1{
